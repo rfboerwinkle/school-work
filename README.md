@@ -1,2 +1,2 @@
 # school-work
-Projects I've done during my time in academia
+Projects I've done during my time in academia.
